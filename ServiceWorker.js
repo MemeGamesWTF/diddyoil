@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-diddyOil-1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/diddyoil.loader.js",
+    "Build/diddyoil.framework.js",
+    "Build/diddyoil.data",
+    "Build/diddyoil.wasm",
     "TemplateData/style.css"
 
 ];
